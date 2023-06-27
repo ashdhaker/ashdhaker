@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purvesh Dhaker</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Rest API**
+- 🔭 I’m currently working on **Building API**
 
 - 🌱 I’m currently learning **Machine Learning**
 
