@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **React Project**
+- 👯 I’m looking to collaborate on **Node js Project**
 
 - 👨‍💻 All of my projects are available at [www.purvesh.co](www.purvesh.co)
 
-- 💬 Ask me about **react, flutter ,node**
+- 💬 Ask me about **flutter ,node**
 
 - 📫 How to reach me **purveshdhaker2012@gmail.com**
 
